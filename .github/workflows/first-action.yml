@@ -10,5 +10,5 @@ jobs:
         run: echo "Done - bye!"
       - name: output
         run: |
-             echo "first output"
-             echo "second output"
+          echo "first output"
+          echo "second output"
